@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/trimotioboko.lwc-l0wk1ly3-fork-l0wkxzpd",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 5SWCUTbkdBnuF26jFZSN --open"
+  }
+}
